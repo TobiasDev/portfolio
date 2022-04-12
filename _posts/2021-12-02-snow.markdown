@@ -1,0 +1,58 @@
+---
+layout: post
+title: SNOW
+date: 2021-12-02 10:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: snow-header.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Level Design]
+---
+I began working on SNOW, January 2014. Before that they did not have a level designer. Their tech. artist had placed assets in each area to give them a good look, but he didn’t have the time to design them. Therefor my task was to start in an area where he had yet to place assets, and learn what type of gameplay worked for the game. I knew (from being a snowboarder myself) that we needed to have different type of gameplay for different areas, since all snowboards (and skiers) have their own definition what type of riding is the best. I started with splitting the area I got into several smaller sections, and gave these different temporary names, depending on what type of gameplay I would test in them.
+
+**Position:** Level designer  
+**Website:** http://www.snowthegame.com  
+**Platform:** PC, PS4  
+**Release date –**  
+_PC:_ Out now on Steam  
+_PS4:_ Out now on PSN  
+**Engine:** CRYENGINE 3
+
+As you can see further down in the text I have worked on more areas, however, as I don’t want this text to be too long I’ve only written about four areas. If you want information about another area I worked on, please send me an email and I’ll get back to you as soon as possible.
+
+### The Shrine (Old name, Rock Piles) 
+This is supposed to be a tight gameplay area with a mix of turning and only have a few jumps. This is also one of the harder areas for new players before the “learn” that in a skiing game you have to break sometimes. If you try to hit The Shrine with full speed all the way you run a big chance of crashing into some of the rocks or fly of a massive jump into a cliff.
+
+![Easterwater Shrine]({{site.baseurl}}/assets/img/the-shrine.jpg)
+
+### Eastwater River 
+This is a trick area. You spawn at the top of the river and during the players ride down you get several options to jump over the river, or hit any of the rails crossing the river. There is also a lot of options on both sides of the river for players that rather stick to one side.
+
+![Easterwater River]({{site.baseurl}}/assets/img/eastwater-river.jpg)
+
+### Eastwater Village 
+Village is supposed to be for more for people into urban skiing. This area has a lot of rails, and smaller jumps that you possibly could find / build in a village to ride the obstacles there.
+
+![Easterwater Village]({{site.baseurl}}/assets/img/eastwater-village.jpg)
+
+### Eastwater Quarry
+Here it is all about speed and learning about breaking and turning. There are some smaller areas in between different heights in quarry that give some other gameplay options. However, the main area is all about speed.
+
+![Easterwater Quarry]({{site.baseurl}}/assets/img/eastwater-quarry.jpg)
+
+To this date, all the areas below here are the areas I have worked on:
+
+- Eastwater Forest
+- Eastwater Village
+- Eastwater Quarry
+- Eastwater River
+- The Shrine
+- Bluebird Resort
+- Tolv
+- Oleanders Vineyard
+- Moshpit Resturant
+- The Piste areas
+- Plane Crash
+- Observatory
+- The Wave
+
+Other than working on these areas I have also designed several of the games events and goals.

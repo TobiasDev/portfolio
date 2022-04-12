@@ -1,0 +1,29 @@
+title: Tobias Dörrich (formerly Johansson) - Level Designer
+description: > # this means to ignore newlines until "baseurl:"
+  Lead Level Designer at Gunzilla Games
+permalink: ':title/'
+baseurl: "https://tobiasdoerrich.com/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Tobias Dörrich (formerly Johansson)
+author-img: tobias-profile.png 
+about-author: I am a game developer focusing on level design, currently the Lead Level Designer at Gunzilla Games based in Frankfurt am Main, Germany. # add description
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
+social-github: TobiasDev # add your Github handle
+social-linkedin: tobias-d%C3%B6rrich-formerly-johansson-25213033 # add your Linkedin handle
+social-email: contact@tobiasdoerrich.com # add your Email address
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
