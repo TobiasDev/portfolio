@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epigenesis
+title: Epigenesis - Dead Shark Triplepunch
 date: 2021-12-01 09:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: epigenesis-header.jpg # Add image post (optional)
